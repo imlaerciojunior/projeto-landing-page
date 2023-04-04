@@ -1,0 +1,55 @@
+1. Qual é a empresa fictícia que será utilizada na página?
+R: Projeto F4Bank
+
+  O F4Bank é um projeto de um grande banco público brasileiro para 
+competir com as startups que tem surgido, como Nubank, Banco Inter 
+e Banco Neon. Você precisa criar uma Landing Page que comunique, 
+além da proposta do banco, os produtos "Cartão sem taxa" e "Conta 
+corrente digital", reforçando a segurança de um banco tradicional 
+com décadas de história no país.
+
+2. Onde estarão localizados o cabeçalho e o rodapé?
+R: O cabeçalho ficara na parte superior, na primeira sessão. Irá conter o logo
+da marca e as abas de produtos, atendimento e area do cliente. O rodapé ficará na
+parte inferior da terceira sessão. Irá conter o endereço do banco, com o CNPJ e outras
+informações de facil acesso para o cliente. 
+
+3. Qual é o título do site?
+R: abra sua conta rápido, fácil e sem burocracia. 
+
+
+4. Quantas seções o site terá e quais serão os nomes dessas seções?
+R: O site vai conter 3 sessões. A Primeira Sessão mostrando a cara da empresa e seu 
+tipo de cliente. Segunda Sessão vai conter os produros com uma tabela para pegar os 
+dados dos possivéis clientes. Terciera Sessão vai ser o resumo da história do banco
+e seus parceiros de investimento.  
+
+5. Qual a localização das seções no site?
+
+
+6. A página terá textos? Em que seções esses textos estarão?
+R: sim, poucos textos e com intuito de chamar a atenção do usuário para que ele
+queira entrar e conhecer mais o produto oferecido.
+
+
+7. A página terá imagens? Em quais seções elas serão adicionadas?
+R: sim, nas 3 sessãoes. 
+
+
+8. A página terá vídeos? Em quais seções eles estarão?
+R: não 
+
+
+9. Em que seção estará localizado o formulário de contato?
+R: na Segunda Sessão.
+
+
+10. Haverá botões no site?
+R: Sim, botões na Segunda Sessão para envio dos formulários dos usuários. 
+
+
+11. Onde estará localizado o logo da empresa?
+R: No cabeçalho, no canto superior esquerdo. 
+
+12. Qual a localização dos ícones de redes sociais?
+R: os ícones ficarão na Terceira Sessão junto ao rodapé da página. 
