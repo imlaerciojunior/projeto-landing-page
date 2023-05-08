@@ -130,3 +130,14 @@ A sua Landing Page deve conter:
 4.  Abra um novo Pull Request (PR) com a frase **PR para correção**. Caso não saiba como fazê-lo, assista a esse [vídeo](https://www.canva.com/design/DAFY4nS5W2c/t92uFMR61YtmA7bCwj2S1Q/watch).
 5.  Envie o link do seu PR e do surge no [formulário de entrega](https://forms.gle/nrh5KpDhAMwXBjC29).
 
+link surge:  incredible-ladybug.surge.sh
+
+![desktop-1](./prints/desktop-1.png)
+![desktop-2](./prints/desktop-2.png)
+![desktop-3](./prints/desktop-3.png)
+![desktop-4](./prints/desktop-4.png)
+![mobile-1](./prints/mobile-1.png)
+![mobile-2](./prints/mobile-2.png)
+![mobile-3](./prints/mobile-3.png)
+![mobile-4](./prints/mobile-4.png)
+![mobile-5](./prints/mobile-5.png)
